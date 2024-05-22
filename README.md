@@ -1,1 +1,1 @@
-This is the week 5 in class palindrome assignment
+This is the compilation of data structure in-class assignemnts 

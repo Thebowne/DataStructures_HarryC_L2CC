@@ -1,6 +1,8 @@
 import java.util.ArrayDeque;
 import java.util.Deque;
 
+//This is week 5 in class palindrome assignment
+
 public class Main {
     public static boolean isPalindrome(String word) {
         String reverse = buildReverse(word);
